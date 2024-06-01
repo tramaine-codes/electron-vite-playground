@@ -4,7 +4,7 @@
     "email": "1573935+tgillus@users.noreply.github.com"
   },
   "dependencies": {
-    "electron-squirrel-startup": "1.0.0"
+    "electron-squirrel-startup": "1.0.1"
   },
   "description": "My Electron application description",
   "devDependencies": {
@@ -15,9 +15,9 @@
     "@electron-forge/maker-zip": "7.4.0",
     "@electron-forge/plugin-auto-unpack-natives": "7.4.0",
     "@electron-forge/plugin-vite": "7.4.0",
-    "@typescript-eslint/eslint-plugin": "7.8.0",
-    "@typescript-eslint/parser": "7.8.0",
-    "electron": "30.0.3",
+    "@typescript-eslint/eslint-plugin": "7.11.0",
+    "@typescript-eslint/parser": "7.11.0",
+    "electron": "30.0.9",
     "eslint": "8.57.0",
     "eslint-plugin-import": "2.29.1",
     "ts-node": "10.9.2",
