@@ -37,6 +37,5 @@
     "publish": "electron-forge publish",
     "lint": "eslint --ext .ts,.tsx ."
   },
-  "type": "module",
   "version": "1.0.0"
 }
