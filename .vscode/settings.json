@@ -1,0 +1,7 @@
+{
+  "biome.enabled": false,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "always"
+  },
+  "typescript.tsdk": "./node_modules/typescript/lib"
+}
